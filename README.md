@@ -10,7 +10,7 @@ yarn dev
 
 Open http://localhost:3000 with your browser to see the result
 
-That's it now you can interact with the token-staing-app
+That's it now you can interact with the token-staking-app
 
 ### Brief Intro 
 Token-staking dapp is a permissionless application.Where users can deposit the staking tokens and earn reward Tokens
