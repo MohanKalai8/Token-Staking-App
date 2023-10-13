@@ -16,7 +16,13 @@ a {
   box-sizing: border-box;
 }
 
+html {
+  color-scheme: dark;
+}
+
 body {
-  color: #e7e8e8;
+  color: #dae1e1;
   background: #070707;
+  /* color: black;
+  background: white; */
 }
