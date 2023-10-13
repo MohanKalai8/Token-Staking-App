@@ -11,7 +11,7 @@ export default function RewardToken() {
     return (
         <Card p={5}>
             <Stack>
-                <Heading>Reward Token</Heading>
+                <Heading>Reward Token Balance</Heading>
                 <Skeleton h={4} w={"50%"} isLoaded={!loadingRewardToken && !loadingTokenBalance}>
                     <Text fontSize={"large"} fontWeight={"bold"}>${tokenBalance?.symbol}</Text>
                 </Skeleton>

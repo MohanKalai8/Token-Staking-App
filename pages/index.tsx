@@ -8,6 +8,7 @@ import StakeToken from "../components/StakeToken";
 import RewardToken from "../components/RewardToken";
 import Stake from "../components/Stake";
 
+
 const Home: NextPage = () => {
   const address = useAddress();
 

@@ -36,7 +36,7 @@ export default function Stake() {
 
     return (
         <Card p={5} mt={20} >
-            <Heading>Earn Reward Token</Heading>
+            <Heading>Earn Reward Tokens by Staking</Heading>
             <SimpleGrid columns={1}>
                 <Card p={5} m={5}>
                     <Box textAlign={"center"} mb={5}>
