@@ -14,12 +14,6 @@ const activeChain = "mumbai";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    // <WagmiConfig config={wagmiConfig}>
-    //   <RainbowKitProvider chains={chains}>
-    //   </RainbowKitProvider>
-    // </WagmiConfig>
-
-
     <ThirdwebProvider
       clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID}
       activeChain={activeChain}
